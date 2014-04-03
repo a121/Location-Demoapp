@@ -1,0 +1,60 @@
+[{ 
+	"firstname": "DoctorA",
+	"lastname": "DoctorA", 
+	"contactNo": "1234567890", 
+	"speciality": "opthalmology", 
+	"location": "Delhi"
+},{ 
+	"firstname": "DoctorB", 
+    "lastname": "DoctorB", 
+    "contactNo": "2345678901", 
+    "speciality": "cardiology", 
+    "location": "Delhi"
+},{ 
+	"firstname": "DoctorC", 
+	"lastname": "DoctorC", 
+	"contactNo": "3456789012", 
+	"speciality": "radiology", 
+	"location": "Delhi"
+},{ 
+	"firstname": "DoctorD", 
+	"lastname": "DoctorD", 
+	"contactNo": "4567890123", 
+	"speciality": "gynaecology", 
+	"location": "Delhi"
+},{ "firstname": "DoctorE", 
+    "lastname": "DoctorE", 
+    "contactNo": "5678901234", 
+    "speciality": "opthalmology", 
+    "location": "Mumbai"
+},{ 
+	"firstname": "DoctorF", 
+	"lastname": "DoctorF", 
+	"contactNo": "6789012345", 
+	"speciality": "cardiology", 
+	"location": "Mumbai"
+},{ 
+	"firstname": "DoctorG", 
+    "lastname": "DoctorG", 
+    "contactNo": "7890123456", 
+    "speciality": "radiology", 
+    "location": "Mumbai"
+},{ 
+	"firstname": "DoctorH", 
+	"lastname": "DoctorH", 
+	"contactNo": "8901234567", 
+	"speciality": "gynaecology", 
+	"location": "Mumbai"
+},{ 
+	"firstname": "DoctorI", 
+	"lastname": "DoctorI", 
+	"contactNo": "9012345678", 
+	"speciality": "opthalmology", 
+	"location": "Kolkata"
+},{ 
+	"firstname": "DoctorJ", 
+	"lastname": "DoctorJ", 
+	"contactNo": "0123456789", 
+	"speciality": "radiology", 
+	"location": "Kolkata"
+}]
